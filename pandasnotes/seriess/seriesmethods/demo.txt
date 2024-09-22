@@ -1,0 +1,17 @@
+# series built-in attributes and methods
+pandas is built on top of the numpy
+
+demo1.py contains:
+--------------------
+1.dtype -- Return datatype
+2.ndim  -- Return the dimension of the series (1 D)
+3.size  -- Return the number of elements in the series
+4.name  -- Rturn the name of pandas series [before we need give name using name()-->as a parameter]
+5.index -- Return the indices of the series
+
+#demo2.py contains
+-------------------
+6.hasnans -- Return True if NaN in the series
+7.head() -- return first n rows of the series (default first 5)
+8.tail() -- return last n rows of the series (default last 5)
+9.info() -- display the summary of the series

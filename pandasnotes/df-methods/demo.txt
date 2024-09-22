@@ -1,0 +1,3 @@
+# DataFrame inbuilt attributr and methods
+
+dtypes,ndim,shape,size,index,T,head(),tail()

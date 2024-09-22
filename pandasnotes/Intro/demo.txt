@@ -1,0 +1,7 @@
+Context:
+---------
+
+1.demo1.py  = create Datafrmae
+2.demo2.py  = access group of row or columns based on index
+3.demo3.py  = access group of row or columns based on integer value
+4.demo4.py  = iterate pandas dataframe

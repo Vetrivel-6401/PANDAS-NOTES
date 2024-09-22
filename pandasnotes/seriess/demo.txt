@@ -1,0 +1,17 @@
+#pandas series
+
+Series in pandas is one dimensional array like a column in a Table. It is labelled array
+that can hold any data type. Series() is used to create pandas series
+
+parameters:
+----------
+
+data  -- The data to be stores in the pandas series
+index -- The index values should have the same length as te data
+dtype -- datatype  for the output series
+name -- set the series name with name parameters
+copy -- to copy the input data
+
+1.demo1.py -- series creation and accessing values
+2.demo2.py -- define our own index value and accessing value using index names
+
