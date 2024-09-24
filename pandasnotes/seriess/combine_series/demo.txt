@@ -1,0 +1,2 @@
+#combine method used to compare two series using a function to make the decision
+#fucntion name as a paramater -->mandatory
