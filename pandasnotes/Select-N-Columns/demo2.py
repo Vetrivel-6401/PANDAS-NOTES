@@ -14,4 +14,4 @@ print(df)
 
 #N range of columns
 
-print("\n\n",df[df.columns[1:4]])
+print("\n\n",df[df.columns[1:4]]) #like slicing

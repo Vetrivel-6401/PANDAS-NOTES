@@ -1,4 +1,4 @@
-#find null/NaN values
+#find null/NaN values -- null values will be returned a sFlase in not null
 
 import pandas as pd
 

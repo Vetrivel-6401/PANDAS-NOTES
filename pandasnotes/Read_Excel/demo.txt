@@ -1,0 +1,2 @@
+# install openpyxl before trying read excel file
+ Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.

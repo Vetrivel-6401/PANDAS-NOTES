@@ -1,0 +1,4 @@
+demo1.py------ add the new column using the insert()---> set the location
+
+demo2.py-------add the new column using assign()---->at the end
+

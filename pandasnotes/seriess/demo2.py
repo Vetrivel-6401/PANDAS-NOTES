@@ -10,5 +10,7 @@ s=pd.Series(data,index=["row1","row2","row3","row4","row5"])
 
 print("\n series\n",s)
 
+#accessing elent using index name
+
 print("element from series : \n",s['row2'])
 

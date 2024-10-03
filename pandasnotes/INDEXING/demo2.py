@@ -6,4 +6,9 @@ print(df)
 
 #To retriev a particular rows data
 
-print("\n\n",df.loc['Virat'])
+print("\n\n",df.loc['Virat']) 
+
+# output
+#  Rank       1
+# Score    118
+# Balls     66

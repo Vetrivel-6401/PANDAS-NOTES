@@ -1,0 +1,3 @@
+Indexing means selecting specific rows and columns data from dataframe.
+
+A dataframe contains columns ,index and data

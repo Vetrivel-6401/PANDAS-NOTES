@@ -10,7 +10,7 @@ print(df)
 res_df=df.iloc[2] #3rd row
 print(res_df)
 
-# output
-#  Rank       1
-# Score    118
-# Balls     66
+# Rank       4
+# Score    100
+# Balls     70
+# Name: Rahul, dtype: int64

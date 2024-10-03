@@ -7,4 +7,4 @@ print(df)
 
 res_df=df.dropna()
 
-print("df after removing duplicates\n\n",res_df)
+print("df after removing null values\n\n",res_df)

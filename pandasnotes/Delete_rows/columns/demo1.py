@@ -10,6 +10,6 @@ data={
 df=pd.DataFrame(data)
 print(df)
 
-df=df.drop(labels=['Marks','Subject'],axis=1)
+df=df.drop(labels=['Marks','Subject'],axis=1) #axis='columns' aslo same
 
 print(df)

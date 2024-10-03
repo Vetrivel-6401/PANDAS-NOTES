@@ -9,7 +9,3 @@ df=pd.DataFrame(data)
 print(df)
 
 print('after sorting \n',df.sort_values(by='Marks')) #default asc
-
-#to desc
-
-print("descending df",df.sort_values(by="Marks",ascending=False))

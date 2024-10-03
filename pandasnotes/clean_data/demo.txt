@@ -1,0 +1,8 @@
+in pandas we have some in-built functions to fix incorrcet data.
+The incorrect data can be a empty data,null,duplicate data etc..
+
+
+1.isnull() --- To find null values and replcae them with True-- For non null values False wil returned
+2.notnull() --- finf the not null values and replace them with True -- For null False will returned
+3.df.dropna() --- drop rows with null values
+3.df.fillna(x) --- replcae null values with specific value

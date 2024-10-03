@@ -16,3 +16,4 @@ data2=['vetri','vel','pradeep','sakthi']
 S=pd.Series(data2,name='Students',index=['Student1','Student2','Student3','Student4'])
 print("\nname of the Series:",S.name)
 print("\n\nIndices in series:",S.index)
+

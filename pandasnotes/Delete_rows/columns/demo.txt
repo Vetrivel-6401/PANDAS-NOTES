@@ -1,0 +1,3 @@
+drop() method is used to delete row and columns from pandas DataFrames
+
+parameter axis='columns' or axis=1

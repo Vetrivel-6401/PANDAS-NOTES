@@ -1,0 +1,13 @@
+Key Differences:
+
+Join Method:
+join is primarily used for merging DataFrames based on their indices. 
+It behaves similarly to SQL-style joins.
+
+Concatenate Method:
+concat is used for stacking DataFrames either vertically (row-wise) or horizontally (column-wise) 
+without merging on a specific key.
+
+Flexibility:
+join is more suitable for joining tables using a key, while concat is more about stacking or 
+combining datasets without merging logic.

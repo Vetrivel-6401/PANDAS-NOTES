@@ -12,4 +12,4 @@ print(df)
 
 #find duplicates
 res=df.duplicated()
-print("Dulicate data \n\n",res)
+print("Dulicate data \n\n",res) # it will return bool for each record , return True if duplicate found
